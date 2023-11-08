@@ -1,0 +1,23 @@
+h1 {
+    background-color: rgb(251, 251, 251);
+  }
+  
+  .sign-in-container {
+    /*width: 50%; /* Adjust as needed */
+    background-color: yellow;
+    margin: 0;
+    /* Optional: Remove default margin for the body element */
+    height: 100%;
+    /* Optional: Ensure the background color covers the entire viewport height */
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  html{
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+  }
